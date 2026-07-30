@@ -1,0 +1,14 @@
+# Web Framework
+Flask==3.0.0
+
+# API Wrapper for Reddit
+praw==7.7.1
+
+# Natural Language Processing
+nltk==3.8.1
+textblob==0.17.1
+
+# Data Manipulation
+pandas==2.1.1
+
+# Database (Note: sqlite3 is built into Python, no pip install needed)
